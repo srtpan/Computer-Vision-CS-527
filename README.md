@@ -6,7 +6,7 @@ This is created as a part of CS527: Computer Vision course at Duke University.
 
 The notebooks contain the following topics in detail:
 
-1. 1D convolution and correlation (Link:)
+1. 1D convolution and correlation
 
 2. 1D smoothing
 
